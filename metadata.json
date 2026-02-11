@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Forex Terminal",
+  "description": "A high-performance Forex market mirroring application featuring real-time charting, session-based analysis, EMA crossovers, and advanced liquidity-based projections including the Whip method.",
+  "requestFramePermissions": []
+}
